@@ -1,1 +1,2 @@
-Hello Git!
+Editing my third file
+Editing it again and again
