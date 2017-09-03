@@ -1,4 +1,7 @@
 Hello Git!
 Adding some text that I want to push.
-Adding some text in my new branch.
+
 Fixing a bug.
+Adding a new feature.
+Adding one more feature to this.
+
