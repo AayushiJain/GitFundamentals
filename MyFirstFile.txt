@@ -5,3 +5,4 @@ Fixing a bug.
 Adding a new feature.
 Adding one more feature to this.
 
+Adding fix1.
